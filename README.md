@@ -1,3 +1,5 @@
+<img height=100 src="https://www.uoc.edu/portal/_resources/common/imatges/marca_UOC/llibre-estil/logo-UOC-masterbrand.jpg">
+
 # Visualización de Datos - UOC - PEC 3
 
 ## Dataset
