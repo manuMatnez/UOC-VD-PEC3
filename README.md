@@ -33,9 +33,11 @@
 
 ### Cartograma de natalidad y defunciones por provincia
 
-![](./generated/img/natalidad_defunciones_provincias_esp.gif)
+https://github.com/manuMatnez/UOC-VD-PEC3/assets/31955822/7baf76e1-c7d8-4e49-b14e-c3cc008a4396
 
 ### Cartograma de natalidad y defunciones por comunidad
 
-![](./generated/img/natalidad_defunciones_comunidades_esp.gif)
+https://github.com/manuMatnez/UOC-VD-PEC3/assets/31955822/ce8e38a5-1a32-4475-88ca-970f8500543a
+
+
 
